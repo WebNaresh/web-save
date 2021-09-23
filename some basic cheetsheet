@@ -1,0 +1,2 @@
+it is the code to add nodemon from dev dependicies only copy line down and paste it in scripts section 
+"dev": "nodemon src/app.js -e js,pug"
